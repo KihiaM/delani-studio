@@ -30,3 +30,6 @@
     align-items: center;
     justify-content: center;
   }
+  .single-img{
+    padding: 0 10px 20px;
+  }  
