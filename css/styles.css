@@ -83,8 +83,13 @@ body, html {
 
 .centered{
   position: relative;
-  top: 300px;
+  top: 300px; 
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+}
+
+.bottom{
+  position: relative;
+  top: 150px;
 }
