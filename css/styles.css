@@ -83,13 +83,19 @@ body, html {
 
 .centered{
   position: relative;
-  top: 300px; 
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 200px;
   color: white;
 }
 
 .bottom{
   position: relative;
-  top: 150px;
+  top: 100px;
+}
+
+.services{
+  position: relative;
+  top: 250px;
+  color: white;
+
+
 }
