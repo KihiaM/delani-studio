@@ -2,9 +2,10 @@ body, html {
   height: 100%;
 }
 
-#bg {
+.bg {
   /* The image used */
-  background-image: url("images/backgrounds/h_img.jpg");
+  background-image: url("/images/backgrounds/h_img.jpg");
+
 
   /* Full height */
   height: 100%;
@@ -42,3 +43,48 @@ body, html {
 .single-img{
   padding: 0 10px 20px;
 }  
+
+.hero-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+  
+  }
+.bg2 {
+  /* The image used */
+  background-image: url("/images/backgrounds/s_image.jpg");
+  
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg3 {
+  /* The image used */
+  background-image: url("/images/backgrounds/c_image.jpg");
+  
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.centered{
+  position: relative;
+  top: 300px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}

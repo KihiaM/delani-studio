@@ -7,29 +7,3 @@
 /*# sourceMappingURL=bootstrap.min.css.map */
 
 
-
-.hero-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    text-align: center;
-    
-    }
-  
-  .hero-image{
-      display: inline-block;
-      position: relative;
-  }
-
-  .img-area{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-  }
-  .single-img{
-    padding: 0 10px 20px;
-  }  
