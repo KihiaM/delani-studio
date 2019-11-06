@@ -107,6 +107,13 @@ body, html {
   color: white;
 }
 
+.img-area3{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
 
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
