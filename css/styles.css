@@ -103,6 +103,10 @@ body, html {
 mark{
   display: none;
 }
+
+.toggletext{
+  display: none;
+}
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
