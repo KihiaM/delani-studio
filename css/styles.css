@@ -105,6 +105,8 @@ body, html {
   position: relative;
   top: 250px;
   color: white;
+  align-content: center;
+  text-align: center;
 }
 
 .img-area3{
