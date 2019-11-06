@@ -46,8 +46,8 @@ body, html {
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
-  padding: 0 10px 20px;
 }
+
 
 .single-img{
   padding: 0 10px 20px;
@@ -105,8 +105,6 @@ body, html {
   position: relative;
   top: 250px;
   color: white;
-
-
 }
 
 
