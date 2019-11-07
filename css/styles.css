@@ -104,9 +104,20 @@ mark{
   display: none;
 }
 
-.toggletext{
+.toggletext1{
   display: none;
 }
+
+.toggletext2{
+  display: none;
+}
+
+.toggletext3{
+  display: none;
+}
+
+
+
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap

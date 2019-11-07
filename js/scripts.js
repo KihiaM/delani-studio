@@ -4,48 +4,67 @@ $(document).ready(function() {
   $("#img1").hover(function() {
     $(".hovertext1").toggle();
   });
-});
 
-$(document).ready(function() {
   $("#img2").hover(function() {
     $(".hovertext2").toggle();
   });
-});
 
-$(document).ready(function() {
   $("#img3").hover(function() {
     $(".hovertext3").toggle();
   });
-});
 
-$(document).ready(function() {
   $("#img4").hover(function() {
     $(".hovertext4").toggle();
   });
-});
 
-
-$(document).ready(function() {
   $("#img5").hover(function() {
     $(".hovertext5").toggle();
   });
-});
 
-$(document).ready(function() {
   $("#img6").hover(function() {
     $(".hovertext6").toggle();
   });
-});
 
-$(document).ready(function() {
   $("#img7").hover(function() {
     $(".hovertext7").toggle();
   });
-});
 
-$(document).ready(function() {
   $("#img8").hover(function() {
     $(".hovertext8").toggle();
+  });
+});
+
+//icon toggle effect
+
+$(document).ready(function() {
+  $("#icon1").click(function() {
+    $(this).hide();
+    $(".toggletext1").removeClass("toggletext1");
+  });
+
+  $("#tg1").click(function() {
+    $("#icon1").show();
+    $("#tg1").addClass("toggletext1");
+  });
+
+  $("#icon2").click(function() {
+    $(this).hide();
+    $(".toggletext2").removeClass("toggletext2");
+  });
+
+  $("#tg2").click(function() {
+    $("#icon2").show();
+    $("#tg2").addClass("toggletext2");
+  });
+
+  $("#icon3").click(function() {
+    $(this).hide();
+    $(".toggletext3").removeClass("toggletext3");
+  });
+
+  $("#tg3").click(function() {
+    $("#icon3").show();
+    $("#tg3").addClass("toggletext3");
   });
 });
 
