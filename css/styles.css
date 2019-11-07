@@ -116,7 +116,10 @@ mark{
   display: none;
 }
 
-
+.form-control{
+  background: rgba(0, 0, 0, 0.3);
+  color: white;
+}
 
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
