@@ -4,7 +4,7 @@ body, html {
 
 .bg {
   /* The image used */
-  background-image: url("/images/backgrounds/h_img.jpg");
+  background-image: url("../images/backgrounds/h_img.jpg");
 
 
   /* Full height */
@@ -41,7 +41,7 @@ body, html {
 
 .bg2 {
   /* The image used */
-  background-image: url("/images/backgrounds/s_image.jpg");
+  background-image: url("../images/backgrounds/s_image.jpg");
   
 
   /* Full height */
@@ -55,7 +55,7 @@ body, html {
 
 .bg3 {
   /* The image used */
-  background-image: url("/images/backgrounds/c_image.jpg");
+  background-image: url("../images/backgrounds/c_image.jpg");
   
 
   /* Full height */
